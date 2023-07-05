@@ -1,0 +1,19 @@
+Q.1. Write a program in C++ to print hello on the screen.
+
+Q.2. Write a C++ program to find prime numbers between 1-1000. [Create a prime() function]
+
+Q.3. Write a C++ program to take two numbers from the command line argument and sum both
+these numbers and display the output. [Hint: use atoi() function to convert a char array to
+integer].
+
+Q.4. Create a class which stores name, roll number and total marks for a student. Input the
+data for a student and display it.
+
+Q.5. Modify the program 4) to store marks in 10 subjects. Calculate the total marks and
+percentage of a student and display it.
+
+Q.6. Create a class complex which stores real and imaginary part of a complex number.
+Input 10 complex numbers and display them.
+
+Q.7. Create a class which stores x and y coordinates of a point. Calculate distance between two
+given points and display it.
