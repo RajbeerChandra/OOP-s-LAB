@@ -1,0 +1,8 @@
+1.create a class shape. derive three class from it named circle , triangle and rectangle. find the area of each shape and display it using virtual function.
+
+2.create a class which stores employee name, ID and salary and derive 2 Class from it named regular and part time. regular class stores DA HRA and basic salary.
+part time class storesnumber of hours and pay per hr. calculate the salary of part time and regular employee using virtual function.  
+
+3.WAP to demonstrate the use of pure virtual unction and abstract base class. 
+
+4. create a class which stores account number customer name and balance. derive two class from that account class named saving and current. the saving class stores the minimum balance.current class stores the overdue amount. Include member function in the appropiate class for deposit money, withdraw and display balance. Display the data of each class using virtual function
