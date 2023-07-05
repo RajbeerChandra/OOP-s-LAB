@@ -1,0 +1,1 @@
+printf("Before Swapping\nx = %d\ny = %d\n", x, y);
